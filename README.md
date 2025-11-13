@@ -82,8 +82,7 @@ endmodule
 **RTL realization Output:** 
 <img width="1899" height="926" alt="Screenshot 2025-11-13 142159" src="https://github.com/user-attachments/assets/0680e632-8655-466b-9c26-2a25e9f675e2" />
 **RTL**
-<img width="1899" height="926" alt="Screenshot 2025-11-13 142159" src="https://github.com/user-attachments/assets/5b39150d-2fa5-4c85-8b83-ee7e5a5f09c6" />
-
+<img width="1450" height="834" alt="Screenshot 2025-11-13 141433" src="https://github.com/user-attachments/assets/2641b8e6-9418-44d9-8d62-f3def404da1b" />
 **Result:**
 Thus, the program has been executed successfully.
 
